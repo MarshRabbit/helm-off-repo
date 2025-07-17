@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginxstd:
+  - apiVersion: v2
+    appVersion: 1.37.0
+    created: "2025-07-17T12:19:53.241324985+09:00"
+    description: ngninx stand for woori cop
+    digest: 608547332953c2439d2fbdb419f5146aba68a999c20a65e8060fc8b6fb5ff178
+    name: nginxstd
+    type: application
+    urls:
+    - nginxstd-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-07-17T12:19:53.24094693+09:00"
